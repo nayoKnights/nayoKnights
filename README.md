@@ -18,9 +18,9 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wazuh SIEM Deployment and Agent Integration</a>|
-| Endpoint Monitoring & Detection | <a href="https://google.com">Wazuh SIEM Deployment and Agent Integration</a>|
-| System Monitoring and Compliance Checks       | Wazuh SIEM Deployment and Agent Integration|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md">Wazuh SIEM Deployment and Agent Integration</a>|
+| Endpoint Monitoring & Detection | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md">Wazuh SIEM Deployment and Agent Integration</a>|
+| System Monitoring and Compliance Checks       | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md"> Wazuh SIEM Deployment and Agent Integration </a> |
 | Virtualization                    | SOC Lab Setup|
 | System Administration (Linux/Windows)                 | SOC Lab Setup|
 
@@ -53,4 +53,4 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 
 ## Projects
 - Virtual SOC Lab
-- Wazuh SIEM Deployment and Agent Integration
+- <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md">Wazuh SIEM Deployment and Agent Integration</a>
