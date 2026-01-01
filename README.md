@@ -1,7 +1,11 @@
 ## Hi there, I'm Nathaniel 👋
+### 💻 Security Operations | 🛡️ Security Engineering | 🔐 Digital Forensics/Incidence Response 
+
+<br>
+
 <a href="https://www.linkedin.com/in/asomani-nathaniel-okyere/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a SOC Analyst focused on advancing my capabilities in threat detection, incident response, and modern cyber-defense technologies, with the goal of strengthening organizational security and contributing to a more resilient digital ecosystem.
+I’m a SOC Analyst focused on advancing my capabilities in threat detection, incident response, and modern cyber-defense technologies, with the goal of strengthening organizational security and contributing to a more resilient digital ecosystem. I'm also passionate about Security Engineering and also Digital Forensics.
 
 ## Objective
 
@@ -23,6 +27,12 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 | System Monitoring and Compliance Checks       | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md"> Wazuh SIEM Deployment and Agent Integration </a> |
 | Virtualization                    | Virtual SOC Lab |
 | System Administration (Linux/Windows)                 | Virtual SOC Lab |
+| Case Management and SOC Workflow      | <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |
+| Integration of TheHive and Cortex for SOC operations      | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
+| Understanding of SOAR concepts, Analysis automation & Orchestration      | <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |
+| Connecting Cortex to TheHive for automated observable analysis     | <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
+| Configuration and management of Cortex analyzers| <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
+
 
 ## Tools
 
@@ -42,6 +52,11 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 <div>
     <img src="https://img.shields.io/badge/-ServiceNow-1B5F4A?style=for-the-badge&logo=servicenow&logoColor=white" />
   <img src="https://img.shields.io/badge/-SolarWinds%20Service%20Desk-F58025?style=for-the-badge&logo=solarwinds&logoColor=white" />
+    
+### Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-00ADEF?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 
 ## Certifications
@@ -54,3 +69,4 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 ## Projects
 - Virtual SOC Lab
 - <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md">Wazuh SIEM Deployment and Agent Integration</a>
+- <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a>
