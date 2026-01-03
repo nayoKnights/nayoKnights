@@ -1,15 +1,19 @@
+
+<div align="center">
+    
 ## Hi there, I'm Nathaniel 👋
 ### 💻 Security Operations | 🛡️ Security Engineering | 🔐 Digital Forensics/Incidence Response 
 
+</div>
 <br>
 
 <a href="https://www.linkedin.com/in/asomani-nathaniel-okyere/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a SOC Analyst focused on advancing my capabilities in threat detection, incident response, and modern cyber-defense technologies, with the goal of strengthening organizational security and contributing to a more resilient digital ecosystem. I'm also passionate about Security Engineering and also Digital Forensics.
+I’m a Cybersecurity Analyst focused on advancing my capabilities in threat detection, incident response, and modern cyber-defense technologies, with the goal of strengthening organizational security and contributing to a more resilient digital ecosystem. I'm also exploring Security Engineering and Digital Forensics.
 
 ## Objective
 
-It is my goal to work in a modern SOC environment that allows me to grow my expertise as a SOC Analyst through continuous hands-on experience.
+It is my goal to work in a modern SOC environment that allows me to grow my expertise as a Cybersecurity Analyst through continuous hands-on experience.
 
 ## Work Experience (e-Crime Bureau)
 - Incident Detection, Response and Remediation.
@@ -57,6 +61,9 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-00ADEF?style=for-the-badge&logo=vmware&logoColor=white)
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 ## Certifications
@@ -65,6 +72,10 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20ce-E31C23?style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified%20SOC%20Analyst%20(EC--Council)-D71920?style=for-the-badge&logo=eccouncil&logoColor=white" />
 </div>
+
+### Certifications in Progress
+![SC-200 Security Operations Analyst](https://img.shields.io/badge/SC--200_Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ## Projects
 - Virtual SOC Lab
