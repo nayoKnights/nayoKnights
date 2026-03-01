@@ -81,3 +81,5 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 - Virtual SOC Lab
 - <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md">Wazuh SIEM Deployment and Agent Integration</a>
 - <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a>
+- <a href="https://github.com/nayoKnights/active-directory-domain-service/tree/main">Active Directory Domain service</a>
+
