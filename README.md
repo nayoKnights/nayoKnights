@@ -3,6 +3,12 @@
     
 ## Hi there, I'm Nathaniel 👋
 ### 💻 Security Operations | 🛡️ Security Engineering | 🔐 Digital Forensics/Incidence Response 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20ce-E31C23?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20SOC%20Analyst%20(EC--Council)-D71920?style=for-the-badge&logo=eccouncil&logoColor=white" />
+</div>
 
 </div>
 <br>
@@ -35,7 +41,8 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 | Integration of TheHive and Cortex for SOC operations      | <a href="https://github.com/nayoKnights/Wazuh-SIEM-Deployment-and-Agent-Integration/blob/main/README.md"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
 | Understanding of SOAR concepts, Analysis automation & Orchestration      | <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |
 | Connecting Cortex to TheHive for automated observable analysis     | <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
-| Configuration and management of Cortex analyzers| <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> |    
+| Configuration and management of Cortex analyzers| <a href="https://github.com/nayoKnights/Case-Management-and-Threat-Analysis-Engine-Integration/tree/main"> Case Management & Threat Analysis/Intelligence Integragion </a> | 
+| Active Directory setup, user administration, access control, and policy management| <a href="https://github.com/nayoKnights/active-directory-domain-service"> Active Directory Domain Services Setup </a> | 
 
 
 ## Tools
@@ -65,13 +72,6 @@ It is my goal to work in a modern SOC environment that allows me to grow my expe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20ce-E31C23?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified%20SOC%20Analyst%20(EC--Council)-D71920?style=for-the-badge&logo=eccouncil&logoColor=white" />
-</div>
 
 ### Certifications in Progress
 ![SC-200 Security Operations Analyst](https://img.shields.io/badge/SC--200_Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
